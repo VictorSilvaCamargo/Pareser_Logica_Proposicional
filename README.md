@@ -1,0 +1,1 @@
+# Pareser_Logica_Proposicional
