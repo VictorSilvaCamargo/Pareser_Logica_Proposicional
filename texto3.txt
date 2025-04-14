@@ -1,0 +1,14 @@
+12
+( \neg ( \vee 1a ( \neg false ) ) )
+( \vee ( \vee ( \vee 1a 2b ) 3c ) 4d )
+( \wedge ( \vee 1a ) 3b )
+( \neg ( \neg ( \neg 3x ) ) )
+( \rightarrow true ) 
+( \leftrightarrow ( \neg 1a ) ( \wedge 2b ( \neg false ) ) )
+( \wedge 1a 2b 3c )
+( \neg ( \wedge 1a ) )
+( 1a \wedge 2b )
+( \vee 1a ( 2b ) )
+( \vee ( \neg 1a ) ( \neg 2b ) )
+( \rightarrow ( \wedge 1a 2b ) ( \vee 3c 4d ) )
+

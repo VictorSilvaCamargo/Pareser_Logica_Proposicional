@@ -1,0 +1,12 @@
+10
+true
+false
+1a
+( \neg true )
+( \wedge true false )
+( \wedge 1a ) 
+( \vee ( \neg 2a ) 3b )
+( \neg )
+( \rightarrow 1a false )
+( \leftrightarrow true ( \neg false ) )
+
