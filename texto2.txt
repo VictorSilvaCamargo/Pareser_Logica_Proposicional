@@ -1,12 +1,16 @@
-10
-true
-false
-1a
-( \neg true )
-( \wedge true false )
-( \wedge 1a ) 
-( \vee ( \neg 2a ) 3b )
-( \neg )
-( \rightarrow 1a false )
-( \leftrightarrow true ( \neg false ) )
-
+15
+( \wedge ( \wedge 1a 2b ) ( \neg ( \vee true false ) ) )
+( \wedge ( \neg ( \rightarrow 1x 2x ) ) ( \vee 3c 4c ) )
+( \vee ( \neg ( \neg ( \neg 9z ) ) ) ( \wedge 1a ( \neg false ) ) )
+( \wedge ( \vee 1a ) 2b )
+( \vee true )
+( \wedge ( \neg ( \wedge ) ) false )
+( \leftrightarrow 1a ( \neg true ) )
+( \vee 1a 2b )
+( \neg ( \rightarrow 1a ) )
+( ( \wedge 1a 2b ) )
+( \wedge 1a ( \vee 2b 3c ) )
+( \neg 123abc )
+( \vee ( \neg 3a ) ( \wedge 4b ( \neg 5c ) ) )
+( \wedge ( \vee ( \neg 1a ) 2b ) ( \leftrightarrow 3c false ) )
+( \vee ( \neg ( \vee true false ) ) ( \rightarrow 1a ( \neg 2b ) ) )
