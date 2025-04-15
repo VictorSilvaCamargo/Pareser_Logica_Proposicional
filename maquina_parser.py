@@ -1,7 +1,7 @@
 # Discentes: Renan Antonio Hammerschmidt Krefta, Victor Silva Camargo, Vinícius Silva Camargo
 
 ## Conjunto de Regras
-"""
+
 
 import sys
 
